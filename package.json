@@ -1,0 +1,12 @@
+{
+  "name": "desafio-teste-campo-minado",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Casos de teste (Jest) para Campo minado 18 x 14 com 40 bombas",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
